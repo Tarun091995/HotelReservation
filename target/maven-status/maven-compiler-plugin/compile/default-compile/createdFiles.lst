@@ -1,0 +1,12 @@
+com\myproduct\reservation\model\Reservation.class
+com\myproduct\reservation\service\ReservationService.class
+com\myproduct\reservation\controller\LoginController.class
+com\myproduct\reservation\model\AdminUser.class
+com\myproduct\reservation\model\AdminUserRepository.class
+com\myproduct\reservation\common\ConfirmationCodeGenerator.class
+com\myproduct\reservation\model\ReservationRepository.class
+com\myproduct\reservation\ResturantReservation.class
+com\myproduct\reservation\controller\ReservationController.class
+com\myproduct\reservation\common\ReservationStatus.class
+com\myproduct\reservation\controller\AdminUserController.class
+com\myproduct\reservation\service\UsersService.class
